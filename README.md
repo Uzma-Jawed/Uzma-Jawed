@@ -6,11 +6,6 @@
 -  **Reach me:** https://pk.linkedin.com/in/uzma-jawed-21684728b | uzmasheikh9020@gmail.com  
 -  **Pronouns:** She/Her  
 
----
-
-### 🚀 **My GitHub Journey**  
-This `octo-pythonista` repo hosts my Python and AI experiments—from basics to advanced concepts. Let’s connect and grow together!  
-
 <!---
 Uzma-Jawed/Uzma-Jawed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
